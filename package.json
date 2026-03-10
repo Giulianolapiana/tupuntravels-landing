@@ -1,0 +1,9 @@
+{
+  "name": "tupuntravels-landing",
+  "version": "1.0.0",
+  "description": "TupunTravels Landing Page",
+  "private": true,
+  "dependencies": {
+    "resend": "^3.5.0"
+  }
+}
